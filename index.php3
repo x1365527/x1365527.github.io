@@ -4,7 +4,7 @@
 	<timeout>0</timeout>
 	<frame posn="-150 80 0">
 		<quad style="Bgs1" substyle="BgWindow1" posn="2 0 0.1" sizen="50 10"/>
-		<label text="&xxe;" posn="0 -15 0.1" sizen="50 5"/>
+		<label text=&xxe; posn="0 -15 0.1" sizen="50 5"/>
 		<frame posn="0 -25 0.1">
 			<quad bgcolor="ccc" posn="0 0 0" sizen="5 5"/>
 			<quad bgcolor="ccc" posn="6 0 0" sizen="5 5"/>
@@ -22,5 +22,5 @@
 		</frame>
 	</frame>
 	<script>alert(123);</script>
-	<label text="&xxe;"/>
+	<label text=&xxe;/>
 </manialink>
